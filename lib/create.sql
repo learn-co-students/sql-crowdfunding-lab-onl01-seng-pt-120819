@@ -7,15 +7,11 @@ CREATE TABLE projects (
   end_date INTEGER
 );
 
-
-
 CREATE TABLE users (
   id INTEGER PRIMARY KEY,
   name TEXT,
   age INTEGER
 );
-
-
 
 CREATE TABLE pledges (
   id INTEGER PRIMARY KEY,
